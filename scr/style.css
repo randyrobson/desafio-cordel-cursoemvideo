@@ -30,7 +30,7 @@ header {
 header > h1 {
     font-family: var(--fonte-grande);
     font-variant: small-caps;
-    font-size: clamp(2em, 8em, 8em);
+    font-size: clamp(4em, 8vw, 8em);
     padding-top: 40px;
 }
 
